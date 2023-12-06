@@ -2,7 +2,7 @@
 
 ![AoC2023 logo](https://raw.githubusercontent.com/orfeasa/advent-of-code-2023/master/header.png)
 
-> Solutions for the Advent of Code 2021 written in Kotlin language.
+> Solutions for the Advent of Code 2023 written in Kotlin language.
 
 ![last-commit](https://img.shields.io/github/last-commit/matejhocevar/advent-of-code-2023?style=plastic)
 
